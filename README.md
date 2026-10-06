@@ -2,6 +2,9 @@
 
 PrimeFaces guides repository
 
+## PrimeFaces
+https://github.com/primefaces/primefaces
+
 ## Migration Guide for Templates
 https://github.com/primefaces/primefaces/wiki/Migration-Guide-for-Templates
 
